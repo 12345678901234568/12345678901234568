@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-12345678901234568/12345678901234568 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+12345678901234568/12345678901234568 is a ✨ special ✨ repository becauتse its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
